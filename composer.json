@@ -1,5 +1,5 @@
 {
-    "name": "filaforge/database-tools",
+    "name": "filaforge/database-manager",
     "description": "Combined database viewer and query builder for FilamentPHP - A comprehensive tool for database management",
     "type": "library",
     "version": "0.1.0",
@@ -14,7 +14,7 @@
         "Admin",
         "Panel"
     ],
-    "homepage": "https://github.com/filaforge/database-tools",
+    "homepage": "https://github.com/filaforge/database-manager",
     "authors": [
         {
             "name": "Filaforge",
@@ -24,15 +24,15 @@
     ],
     "support": {
         "email": "filaforger@gmail.com",
-        "source": "https://github.com/filaforge/database-tools",
-        "issues": "https://github.com/filaforge/database-tools/issues",
-        "docs": "https://github.com/filaforge/database-tools#readme"
+        "source": "https://github.com/filaforge/database-manager",
+        "issues": "https://github.com/filaforge/database-manager/issues",
+        "docs": "https://github.com/filaforge/database-manager#readme"
     },
     "require": {
         "php": "^8.1",
         "filament/filament": "^4.0",
         "illuminate/support": "^12.0",
-        "spatie/laravel-package-tools": "^1.16"
+        "spatie/laravel-package-manager": "^1.16"
     },
     "require-dev": {
         "orchestra/testbench": "^9.0",
