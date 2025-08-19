@@ -2,6 +2,7 @@
     "name": "filaforge/database-tools",
     "description": "Combined database viewer and query builder for FilamentPHP - A comprehensive tool for database management",
     "type": "library",
+    "version": "0.1.0",
     "license": "MIT",
     "keywords": [
         "Laravel",

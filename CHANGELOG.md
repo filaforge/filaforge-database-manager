@@ -1,3 +1,8 @@
+## v0.1.0 - 2025-08-19
+
+- Initial release combining Database Viewer and Query tools into one plugin
+- Filament v4 compatible; providers registered and assets included
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
